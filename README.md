@@ -47,7 +47,7 @@
 
 
 ### 관리자 모드 주문내역 조회
-<img width = "550" src = "https://user-images.githubusercontent.com/67010327/103908335-b9feaa00-5145-11eb-9182-10357069537f.png">
+<img width = "550" src = "https://user-images.githubusercontent.com/67010327/103909519-27f7a100-5147-11eb-9a65-d72b2e1632f9.png">
 
 
 
