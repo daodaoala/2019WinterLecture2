@@ -32,13 +32,13 @@
 ## 상세 화면
 
 ### 초기화면
-<img width = "550" src = "">
+<img width = "550" src = "https://user-images.githubusercontent.com/67010327/103908336-b9feaa00-5145-11eb-999a-049b4f00c15e.png">
 
 
 
 ### 사용자 모드 화면
 <img width = "550" src = "https://user-images.githubusercontent.com/67010327/103908337-ba974080-5145-11eb-9440-7df16cc5661c.png">
-https://user-images.githubusercontent.com/67010327/103908336-b9feaa00-5145-11eb-999a-049b4f00c15e.png
+
 
 
 ### 관리자 로그인 화면
