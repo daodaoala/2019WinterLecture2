@@ -57,9 +57,9 @@
 
 
 ### 관리자 모드 일별 매출 조회
-<img src = "https://user-images.githubusercontent.com/67010327/103908734-2aa5c680-5146-11eb-886c-0a2e246c8db3.png">
+<img width = "550" src = "https://user-images.githubusercontent.com/67010327/103908736-2bd6f380-5146-11eb-9d35-1ba7dfb76977.png">
 
 
 
 ### 관리자 모드 메뉴 조회, 추가, 삭제
-<img src = "https://user-images.githubusercontent.com/67010327/103908736-2bd6f380-5146-11eb-9d35-1ba7dfb76977.png">
+<img width = "550" src = "https://user-images.githubusercontent.com/67010327/103908734-2aa5c680-5146-11eb-886c-0a2e246c8db3.png">
