@@ -42,7 +42,7 @@
 
 
 ### 관리자 로그인 화면
-<img src = "https://user-images.githubusercontent.com/67010327/103908336-b9feaa00-5145-11eb-999a-049b4f00c15e.png">
+<img width = "550" src = "https://user-images.githubusercontent.com/67010327/103908338-ba974080-5145-11eb-8d34-51b33fd12be9.png">
 
 
 
@@ -52,7 +52,7 @@
 
 
 ### 관리자 모드 월별 매출 조회
-<img src = "https://user-images.githubusercontent.com/67010327/103908338-ba974080-5145-11eb-8d34-51b33fd12be9.png">
+<img width = "550" src = "https://user-images.githubusercontent.com/67010327/103908336-b9feaa00-5145-11eb-999a-049b4f00c15e.png">
 
 
 
